@@ -13,7 +13,7 @@ public class Customer {
     private List<Item> wantToBuy;
 
     @XmlAttribute
-    public String getName() {
+    public  String getName() {
         return name;
     }
 
